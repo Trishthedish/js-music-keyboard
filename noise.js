@@ -8,6 +8,7 @@ $(".c").click(function(){
   // alert("this worked!"); // this checks to see if it will alert once clicked.
 
   // now select your audio you wish to be played.
+
   $('#cAudio').trigger('play');
 });
 
